@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                         new GraphRequest.GraphJSONObjectCallback() {
                             @Override
                             public void onCompleted(JSONObject object, GraphResponse response) {
-                                Log.v("LoginActivity", response.toString());
+                                Log.d("LoginActivity", response.toString());
 
                                 // Application code
                                 String email = object.optString("email");
