@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FBIntegration.iml" filepath="$PROJECT_DIR$/FBIntegration.iml" />
+      <module fileurl="file://C:\myProj\FbDemo\FBIntegration.iml" filepath="C:\myProj\FbDemo\FBIntegration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FbDemo.iml" filepath="$PROJECT_DIR$/FbDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\myProj\FbDemo\app\app.iml" filepath="C:\myProj\FbDemo\app\app.iml" />
     </modules>
   </component>
 </project>
